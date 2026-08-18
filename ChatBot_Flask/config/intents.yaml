@@ -1,0 +1,222 @@
+intents:
+  greet:
+    examples:
+      - hi
+      - hello
+      - hey there
+      - good morning
+    responses:
+      - Hi! How can I help you with your studies today?
+      - Hello! What academic questions do you have?
+
+  ask_question:
+    examples:
+      - how do I solve this problem
+      - can you explain this concept
+      - help me understand this topic
+      - what is the meaning of this term
+    responses:
+      - I'll help you understand this. Could you provide more details?
+      - Let me help you with that. What specific part is unclear?
+
+  homework_help:
+    examples:
+      - I need help with my homework
+      - can you help with this assignment
+      - stuck on this exercise
+      - how to solve this question
+    responses:
+      - I'll guide you through this. What's the homework about?
+      - Sure, I can help! What subject is this for?
+
+  goodbye:
+    examples:
+      - bye
+      - goodbye
+      - thank you, bye
+      - see you later
+    responses:
+      - Goodbye! Good luck with your studies!
+      - Bye! Feel free to ask if you have more questions!
+
+  literature_analysis:
+    examples:
+      - analyze literature
+      - literary analysis help
+      - character analysis
+      - analyze poem
+      - analyze text
+      - book analysis
+      - interpret literature
+    responses:
+      - "Let's analyze this piece of literature. We'll look at: 1) Theme 2) Characters 3) Plot structure 4) Literary devices 5) Historical context. Which aspect would you like to focus on first?"
+      - "Literary analysis requires careful reading and interpretation. Could you share the specific text or passage you're working with? I'll help you break down its key elements."
+      - "To understand literature deeply, we should consider the author's background, historical context, and literary techniques. What work are you analyzing? I can guide you through the process."
+
+  research_methodology:
+    examples:
+      - research methods
+      - how to research
+      - research design
+      - methodology help
+      - research approach
+      - data collection methods
+      - research question help
+    responses:
+      - "Research methodology typically involves: 1) Defining research questions 2) Selecting appropriate methods 3) Data collection 4) Analysis 5) Drawing conclusions. Which stage are you currently working on?"
+      - "Let's develop your research methodology. First, is this qualitative, quantitative, or mixed methods research? This will help us choose the most appropriate approach."
+      - "Good research starts with clear questions and objectives. Could you share your research topic? I'll help you design an effective methodology."
+
+  math_advanced:
+    examples:
+      - calculus problem
+      - linear algebra
+      - differential equations
+      - statistics help
+      - probability question
+      - mathematical proof
+      - advanced math
+    responses:
+      - "Advanced mathematics requires a systematic approach. Let's break down your problem into smaller, manageable steps. Could you describe the specific concept or problem you're working on?"
+      - "I can help with various advanced math topics including calculus, linear algebra, differential equations, and statistics. Which area are you studying? We'll tackle it step by step."
+      - "Mathematics becomes clearer when we understand the underlying concepts. Tell me what you're working on, and I'll help explain both the theory and practical application."
+
+  scientific_writing:
+    examples:
+      - write scientific paper
+      - research paper help
+      - scientific writing
+      - paper structure
+      - academic writing
+      - thesis writing
+      - dissertation help
+    responses:
+      - "Scientific writing follows this structure: 1) Abstract 2) Introduction 3) Methods 4) Results 5) Discussion 6) Conclusion. Which section are you working on? I can provide specific guidance."
+      - "Let's improve your scientific paper. Key aspects include clarity, precision, proper citations, and logical flow. Would you like to focus on a particular aspect?"
+      - "Writing a scientific paper requires both technical accuracy and clear communication. Share your paper's topic, and I'll guide you through the writing process."
+
+  presentation_skills:
+    examples:
+      - presentation help
+      - how to present
+      - presentation tips
+      - public speaking
+      - academic presentation
+      - powerpoint help
+      - presentation structure
+    responses:
+      - "Effective presentations need: 1) Clear structure 2) Engaging delivery 3) Visual aids 4) Time management 5) Audience interaction. Which aspect would you like to improve?"
+      - "I can help you create an impactful academic presentation. First, let's consider your audience and key message. What's the topic and who are you presenting to?"
+      - "Let's make your presentation stand out. We'll focus on content organization, slide design, and delivery techniques. What's the main challenge you're facing?"
+
+  critical_thinking:
+    examples:
+      - critical thinking
+      - analyze argument
+      - evaluate evidence
+      - logical reasoning
+      - argument analysis
+      - critical analysis
+      - evaluate sources
+    responses:
+      - "Critical thinking involves: 1) Analyzing arguments 2) Evaluating evidence 3) Identifying assumptions 4) Drawing logical conclusions 5) Recognizing biases. Which skill would you like to develop?"
+      - "Let's enhance your critical thinking skills. Can you share the specific argument or text you're analyzing? We'll examine it systematically."
+      - "Good critical thinking starts with asking the right questions. What are you trying to evaluate? I'll help you develop a framework for analysis."
+
+  exam_strategies:
+    examples:
+      - exam strategy
+      - test taking tips
+      - exam preparation
+      - study techniques
+      - memory techniques
+      - exam time management
+      - test anxiety help
+    responses:
+      - "Here's a comprehensive exam strategy: 1) Create a study schedule 2) Use active recall 3) Practice past papers 4) Master time management 5) Review and revise. Which area needs most attention?"
+      - "Let's develop your exam strategy. Different subjects and exam formats require different approaches. What subject and type of exam are you preparing for?"
+      - "Success in exams comes from both knowledge and technique. I can help with study methods, time management, and stress control. What's your biggest concern?"
+
+  lab_report_writing:
+    examples:
+      - lab report help
+      - write lab report
+      - experiment report
+      - laboratory write up
+      - results analysis
+      - scientific report
+      - data analysis help
+    responses:
+      - "Lab reports should include: 1) Introduction 2) Methods 3) Results 4) Discussion 5) Conclusion. Which section are you struggling with? I can provide specific guidance."
+      - "Let's improve your lab report. Key elements include clear methodology, accurate data presentation, and thoughtful analysis. Which aspect would you like to focus on?"
+      - "Writing a good lab report requires both scientific accuracy and clear communication. What experiment are you writing about? I'll help you structure your report effectively."
+
+  citation_formatting:
+    examples:
+      - citation help
+      - reference format
+      - bibliography help
+      - citation style
+      - APA format
+      - MLA format
+      - reference list
+    responses:
+      - "I can help with various citation styles including APA, MLA, Chicago, and Harvard. Which style are you using? I'll guide you through the correct format."
+      - "Proper citations are crucial in academic writing. Tell me what type of source you're citing (book, article, website, etc.), and I'll show you the correct format."
+      - "Let's ensure your citations are correct. Different source types have different formats. What are you trying to cite? I'll help you format it properly."
+
+  project_management:
+    examples:
+      - manage project
+      - project planning
+      - group project
+      - project timeline
+      - team coordination
+      - project organization
+      - deadline management
+    responses:
+      - "Successful project management involves: 1) Clear goals 2) Timeline planning 3) Task delegation 4) Progress monitoring 5) Risk management. Which aspect needs attention?"
+      - "Let's organize your project effectively. First, what's the project scope and deadline? This will help us create a manageable timeline and task list."
+      - "Good project management balances time, resources, and quality. What's your current project challenge? I can help with planning and organization."
+
+  language_learning:
+    examples:
+      - language learning
+      - improve vocabulary
+      - grammar help
+      - pronunciation
+      - speaking practice
+      - writing skills
+      - language tips
+    responses:
+      - "Effective language learning combines: 1) Vocabulary building 2) Grammar practice 3) Listening exercises 4) Speaking practice 5) Regular writing. Which area would you like to focus on?"
+      - "Let's enhance your language skills. Are you working on speaking, writing, reading, or listening? Each skill requires different strategies."
+      - "Language improvement requires consistent practice. What's your current language level and goal? I can suggest appropriate learning methods."
+
+  literature_review:
+    examples:
+      - literature review help
+      - research review
+      - review papers
+      - synthesize research
+      - analyze articles
+      - academic review
+      - research synthesis
+    responses:
+      - "A good literature review should: 1) Define scope 2) Search systematically 3) Analyze findings 4) Identify gaps 5) Synthesize information. Which step would you like help with?"
+      - "Let's work on your literature review. First, what's your research topic? This will help us identify relevant sources and organize the review effectively."
+      - "Writing a literature review requires careful organization and synthesis. Would you like help with finding sources, analysis, or writing the review?"
+
+  data_visualization:
+    examples:
+      - visualize data
+      - create graphs
+      - chart help
+      - data presentation
+      - plot data
+      - statistical graphs
+      - visualization tips
+    responses:
+      - "Effective data visualization requires: 1) Choosing the right chart type 2) Clear labeling 3) Appropriate scaling 4) Color use 5) Legend clarity. What type of data are you working with?"
+      - "Let's create clear and informative visualizations. What kind of data do you have (categorical, numerical, time series)? This will help us choose the best visualization method."
+      - "Good data visualization helps communicate your findings effectively. What's the main message you want to convey? I'll help you choose and design the appropriate visualization."

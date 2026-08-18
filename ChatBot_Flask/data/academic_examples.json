@@ -1,0 +1,1383 @@
+{
+  "categories": {
+    "learning": {
+      "examples": [
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hi! I work as a gourmet cook.",
+                "speaker": "user"
+              },
+              {
+                "text": "Cool, I'm currently studying and enjoy going fishing in my spare time.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "How are you doing today.",
+                "speaker": "user"
+              },
+              {
+                "text": "Yes! I should try the desert. I want to taste a grasshopper. Where do you live?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "What do you do for career? I have a ton of hobbies if you are interested!",
+                "speaker": "user"
+              },
+              {
+                "text": "A teaching job. I teach English.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I like to watch kids.",
+                "speaker": "user"
+              },
+              {
+                "text": "I love rap music and strong men or women! I just want to feel love again.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello friend, how is it going.",
+                "speaker": "user"
+              },
+              {
+                "text": "High school students are interesting. You teach? Married or children? I have a son.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning",
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "I am frank. Nice to meet you. What is your name?",
+                "speaker": "user"
+              },
+              {
+                "text": "You can learn to write cursive. I think I'm to blame for my problems.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "My name is gary. Great to meet you too.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hi I'm Sally, I live with my sweet dogs in Taos, new Mexico.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I work as a general manager at a grocery store. What about you?",
+                "speaker": "user"
+              },
+              {
+                "text": "I think it had more to do with the fact that she was stealing from work.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey whats going on? How are you?",
+                "speaker": "user"
+              },
+              {
+                "text": "Being from Springfield Missouri the Midwest doesn't offer much.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Not much, just seen both my children off to school, you?",
+                "speaker": "user"
+              },
+              {
+                "text": "Do you have any pets?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "About to smash some pretzels. Can't get enough of them.",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm from Virginia. Are you a student?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning",
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hi how are you today.",
+                "speaker": "user"
+              },
+              {
+                "text": "You are a very morbid dude.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm good. Just listening to some tool.",
+                "speaker": "user"
+              },
+              {
+                "text": "Lucky you! If I could I'd take a swim class to learn how.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Oh wow do you play music.",
+                "speaker": "user"
+              },
+              {
+                "text": "Wow that is sad its nice that you keep her memory alive.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning",
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello there. How are you? I got off from creating videos for discovery channel.",
+                "speaker": "user"
+              },
+              {
+                "text": "You sound like one of my shows I watch on Broadway.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Cool! I watched a video on Dc about gravity last week instead of my favorite futurama.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hello. How are you today? I want to work in my garden, but its raining.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Nice. Before this job, I did not have any technological skills. Where do you work?",
+                "speaker": "user"
+              },
+              {
+                "text": "What have you learned? I do not read since I cannot see in color.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you today.",
+                "speaker": "user"
+              },
+              {
+                "text": "Are you in the 9 5 grind? Sorry I don't understand.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm good tired though. I'm pre law so I study alot.",
+                "speaker": "user"
+              },
+              {
+                "text": "Good for you! I'm athletic so junk food is off the table for me too!",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm a boy. Or a girl. Or a cat ink anymore.",
+                "speaker": "user"
+              },
+              {
+                "text": "My favorite song is blue suede shoes but I also like when he sings hymns.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you today.",
+                "speaker": "user"
+              },
+              {
+                "text": "Cool, my dad was a good man who taught me right from wrong.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm good tired though. I'm pre law so I study alot.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hello, I am fine, do you have any hobbies?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm a boy. Or a girl. Or a cat ink anymore.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hello how are you?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you today.",
+                "speaker": "user"
+              },
+              {
+                "text": "That would be great. I dream of owning a house and winning the lottery.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm good tired though. I'm pre law so I study alot.",
+                "speaker": "user"
+              },
+              {
+                "text": "I just love the color green. Its my favorite color.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm a boy. Or a girl. Or a cat ink anymore.",
+                "speaker": "user"
+              },
+              {
+                "text": "Yeah I will see it eventually. Where are you from?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning"
+          ]
+        }
+      ],
+      "total_count": 133,
+      "keywords": [
+        "learn",
+        "learning",
+        "education",
+        "teaching",
+        "study",
+        "student"
+      ]
+    },
+    "research": {
+      "examples": [
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hi how are you today.",
+                "speaker": "user"
+              },
+              {
+                "text": "I am a vegan too, awesome.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Doing great. I had the day off, you?",
+                "speaker": "user"
+              },
+              {
+                "text": "I currently live in a science lab, you.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I only worked half a day I work at the bank.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hello.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "research"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "I am frank. Nice to meet you. What is your name?",
+                "speaker": "user"
+              },
+              {
+                "text": "What sushi sound like windy.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "My name is gary. Great to meet you too.",
+                "speaker": "user"
+              },
+              {
+                "text": "Ah marketing, the great science of human nature. Do you enjoy it?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I work as a general manager at a grocery store. What about you?",
+                "speaker": "user"
+              },
+              {
+                "text": "I do martial arts, I have a contest coming up soon.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "research"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello how are you this evening?",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm a teacher, science, it was my favorite subject.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "It has been a bit quite the event, you? Cooking my vegan dish tonight.",
+                "speaker": "user"
+              },
+              {
+                "text": "Pizza is my favorite food, whats your favorite?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Yum! Just back from taking the kids on a nature walk lovely.",
+                "speaker": "user"
+              },
+              {
+                "text": "Have you got an idea what degree you will choose? Its okay if you do not.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "research"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you doing.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hello how are you today?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm good, getting ready to head to the bookstore where I work.",
+                "speaker": "user"
+              },
+              {
+                "text": "I really like marketing its my life.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Cool, how long have you worked there?",
+                "speaker": "user"
+              },
+              {
+                "text": "I start at Uc Santa Cruz soon and I'm going to study computer science.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning",
+            "research"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello. Wanna go to mcdonalds?",
+                "speaker": "user"
+              },
+              {
+                "text": "Hello! I just got back from a fishing trip, how are you today?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "No I'd rather read to my twins.",
+                "speaker": "user"
+              },
+              {
+                "text": "No I don't. Have you gone to college? I just started my freshman year.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I need to have supper. Need to choose where to get take out.",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm in college now I'm a science major.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "research",
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hi how are you doing today.",
+                "speaker": "user"
+              },
+              {
+                "text": "Yes it would my four sisters make fun of me because I believe.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I'm great just playing with my parrot.",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm a freelance artist.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "How old is your parrot.",
+                "speaker": "user"
+              },
+              {
+                "text": "I love science, math not so much.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "research"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello! Happy saturday. What are you up to?",
+                "speaker": "user"
+              },
+              {
+                "text": "No I do not, I'm in the 10th grade and I focus on science.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Not much. Kinda stuck at home with my folks.",
+                "speaker": "user"
+              },
+              {
+                "text": "That is pretty exciting. I do like to fish in new places.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Me too. I am trying to do some homework but its boring.",
+                "speaker": "user"
+              },
+              {
+                "text": "That sounds good. I only like meat honestly.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "research"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hi, I am just finishing up building a coffee table. What are you up to?",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm just never enough I might be too gat.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Learning. A second spent not learning is a second wasted. I love the internet.",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm working on a wedding cake for the weekend.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "What are you learning? I do a lot of research on bowling to improve my skill.",
+                "speaker": "user"
+              },
+              {
+                "text": "I love dinosaurs. They're my favorite.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning",
+            "research"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hi, I am just finishing up building a coffee table. What are you up to?",
+                "speaker": "user"
+              },
+              {
+                "text": "Pizza! I miss pizza. My gym routine won't let me eat it.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Learning. A second spent not learning is a second wasted. I love the internet.",
+                "speaker": "user"
+              },
+              {
+                "text": "I love dogs. Do you?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "What are you learning? I do a lot of research on bowling to improve my skill.",
+                "speaker": "user"
+              },
+              {
+                "text": "Coffee is expensive. I spend a lot of money on vegetables.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning",
+            "research"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hi, I am just finishing up building a coffee table. What are you up to?",
+                "speaker": "user"
+              },
+              {
+                "text": "Do you take your family with you when you play far away?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Learning. A second spent not learning is a second wasted. I love the internet.",
+                "speaker": "user"
+              },
+              {
+                "text": "Do you like pride and prejudice by Jane Austen?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "What are you learning? I do a lot of research on bowling to improve my skill.",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm not far from there.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning",
+            "research"
+          ]
+        }
+      ],
+      "total_count": 17,
+      "keywords": [
+        "theory",
+        "experiment",
+        "research",
+        "hypothesis",
+        "scientific",
+        "science"
+      ]
+    },
+    "institution": {
+      "examples": [
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello friend, how is it going.",
+                "speaker": "user"
+              },
+              {
+                "text": "High school students are interesting. You teach? Married or children? I have a son.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "learning",
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Rock on, I'm listening to my favorite band guns and roses.",
+                "speaker": "user"
+              },
+              {
+                "text": "I love the band bon over but my colleagues at public relations hate them.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "No kidding? I was just listening to the same thing while taking a bath.",
+                "speaker": "user"
+              },
+              {
+                "text": "Ll my mom is a palm reader. She's awesome.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Of course. I love to listen to rock.",
+                "speaker": "user"
+              },
+              {
+                "text": "Oh definitely! I love some old school video games. What do you play?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution",
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you today?",
+                "speaker": "user"
+              },
+              {
+                "text": "Just the family. Italians. Italian Americans. My folks are 1st generation.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Great! Just go off work at the smoothie shop. You?",
+                "speaker": "user"
+              },
+              {
+                "text": "Well I'll not be able to show I need to get my help for now.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I have been eating tacos and getting ready to move to school.",
+                "speaker": "user"
+              },
+              {
+                "text": "What kind of art do you make.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you today?",
+                "speaker": "user"
+              },
+              {
+                "text": "Great! I work at a school as a psychologist. What do you do?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Great! Just go off work at the smoothie shop. You?",
+                "speaker": "user"
+              },
+              {
+                "text": "Good call what about peanut butter?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I have been eating tacos and getting ready to move to school.",
+                "speaker": "user"
+              },
+              {
+                "text": "Me too. It is hard work so my son comes by to help often.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you today?",
+                "speaker": "user"
+              },
+              {
+                "text": "I already am. and I stared at him pretty hard today.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Great! Just go off work at the smoothie shop. You?",
+                "speaker": "user"
+              },
+              {
+                "text": "You keep saying that. You know I don't live there, right?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I have been eating tacos and getting ready to move to school.",
+                "speaker": "user"
+              },
+              {
+                "text": "I've just been working, I am a pediatrician, what do u do?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you today?",
+                "speaker": "user"
+              },
+              {
+                "text": "I enjoy taking care of my horse. Her name is beauty.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Great! Just go off work at the smoothie shop. You?",
+                "speaker": "user"
+              },
+              {
+                "text": "Yeah you can not just take monkeys everywhere.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I have been eating tacos and getting ready to move to school.",
+                "speaker": "user"
+              },
+              {
+                "text": "Oh no I'm only 16.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you today?",
+                "speaker": "user"
+              },
+              {
+                "text": "I am technical with my fighting moves. I've never lost. You ever fought before?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Great! Just go off work at the smoothie shop. You?",
+                "speaker": "user"
+              },
+              {
+                "text": "I thought we are opposite in all aspects but my diet is vegan.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I have been eating tacos and getting ready to move to school.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hello! I am from new York. Where are you from?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "I am frank. Nice to meet you. What is your name?",
+                "speaker": "user"
+              },
+              {
+                "text": "I moved to Panama city beach Florida.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "My name is gary. Great to meet you too.",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm all packed up and ready to go back to school. How are you?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I work as a general manager at a grocery store. What about you?",
+                "speaker": "user"
+              },
+              {
+                "text": "I've never warped. Maybe I should see if its big where I live, in grand Rapids, Mi.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you? I wanted to go to Florida to surf but no way!",
+                "speaker": "user"
+              },
+              {
+                "text": "Maybe we should just all go get a steak best food in the world.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I am so great. For sure, no fl now. Unless you are really good at swimming?",
+                "speaker": "user"
+              },
+              {
+                "text": "I enjoy yoga but would rather play tennis.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I am great at catching a wave with my high school sweetheart.",
+                "speaker": "user"
+              },
+              {
+                "text": "No, thanks! I am 32. I should get a wife, not a cat.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hey how are you? I wanted to go to Florida to surf but no way!",
+                "speaker": "user"
+              },
+              {
+                "text": "I do I buy some from my house.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I am so great. For sure, no fl now. Unless you are really good at swimming?",
+                "speaker": "user"
+              },
+              {
+                "text": "I work a lot on a computer an wish I could read actual books more.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I am great at catching a wave with my high school sweetheart.",
+                "speaker": "user"
+              },
+              {
+                "text": "Yeah. She is still kicking.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution"
+          ]
+        }
+      ],
+      "total_count": 253,
+      "keywords": [
+        "institute",
+        "campus",
+        "college",
+        "academy",
+        "school",
+        "university"
+      ]
+    },
+    "coursework": {
+      "examples": [
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hi, how are you doing today?",
+                "speaker": "user"
+              },
+              {
+                "text": "What sort of events do you normally photograph?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I am spending time with my 4 sisters what are you up to.",
+                "speaker": "user"
+              },
+              {
+                "text": "The Minnesota wolves. I'm filthy rich.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Wow, four sisters. Just watching game of thrones.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hope so my class is taking a trip there end of the year.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Rock on, I'm listening to my favorite band guns and roses.",
+                "speaker": "user"
+              },
+              {
+                "text": "Cubs won! You sing and dance? I do. bird peck at my eyes.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "No kidding? I was just listening to the same thing while taking a bath.",
+                "speaker": "user"
+              },
+              {
+                "text": "Oh. I am a vegetarian.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Of course. I love to listen to rock.",
+                "speaker": "user"
+              },
+              {
+                "text": "I love corn. How long have you been gardening?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Rock on, I'm listening to my favorite band guns and roses.",
+                "speaker": "user"
+              },
+              {
+                "text": "I never been, I just moved to Virginia from Pennsylvania.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "No kidding? I was just listening to the same thing while taking a bath.",
+                "speaker": "user"
+              },
+              {
+                "text": "Hi angel, do you like breakfast?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Of course. I love to listen to rock.",
+                "speaker": "user"
+              },
+              {
+                "text": "I'm well tired from hiking you?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Rock on, I'm listening to my favorite band guns and roses.",
+                "speaker": "user"
+              },
+              {
+                "text": "How are you doing today?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "No kidding? I was just listening to the same thing while taking a bath.",
+                "speaker": "user"
+              },
+              {
+                "text": "I like electronic and classical music.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Of course. I love to listen to rock.",
+                "speaker": "user"
+              },
+              {
+                "text": "I am pretty good, just tired. How are you?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Rock on, I'm listening to my favorite band guns and roses.",
+                "speaker": "user"
+              },
+              {
+                "text": "I love the band bon over but my colleagues at public relations hate them.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "No kidding? I was just listening to the same thing while taking a bath.",
+                "speaker": "user"
+              },
+              {
+                "text": "Ll my mom is a palm reader. She's awesome.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Of course. I love to listen to rock.",
+                "speaker": "user"
+              },
+              {
+                "text": "Oh definitely! I love some old school video games. What do you play?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "institution",
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Rock on, I'm listening to my favorite band guns and roses.",
+                "speaker": "user"
+              },
+              {
+                "text": "That's insane! Hopefully I can earn more money working in the federal court.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "No kidding? I was just listening to the same thing while taking a bath.",
+                "speaker": "user"
+              },
+              {
+                "text": "Well that's your fault. I am junna go barefoot in class tomorrow. Join me for notes.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Of course. I love to listen to rock.",
+                "speaker": "user"
+              },
+              {
+                "text": "I don't have any pets. Do you like going to the creek?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Rock on, I'm listening to my favorite band guns and roses.",
+                "speaker": "user"
+              },
+              {
+                "text": "Yeah, I was never a fan of it. My friends played it often.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "No kidding? I was just listening to the same thing while taking a bath.",
+                "speaker": "user"
+              },
+              {
+                "text": "I had a purple swimsuit, but my 3 dogs chewed it up.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Of course. I love to listen to rock.",
+                "speaker": "user"
+              },
+              {
+                "text": "What kinds of big dogs.",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello. How are you?",
+                "speaker": "user"
+              },
+              {
+                "text": "Great! Happy its friday. Finshed with classes now I can go run my family farm.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I am great and you?",
+                "speaker": "user"
+              },
+              {
+                "text": "I go to church every sunday. I love God.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Doing good. What are some of your favorite books?",
+                "speaker": "user"
+              },
+              {
+                "text": "Haha wash it down with some cool dr pepper!",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello, how are you doing?",
+                "speaker": "user"
+              },
+              {
+                "text": "Delivery! lol, I'm not a good cook.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Hi there, I am doing great thanks. Where are you from?",
+                "speaker": "user"
+              },
+              {
+                "text": "Does your cat also have a very set mind?",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I am from Socal, yourself?",
+                "speaker": "user"
+              },
+              {
+                "text": "That's fun, I'm currently listening to classical music. Do you have any favorites?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        },
+        {
+          "dialog": {
+            "utterances": [
+              {
+                "text": "Hello, how are you doing?",
+                "speaker": "user"
+              },
+              {
+                "text": "No pets yet, but I do have a master s degree which explains a lot.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "Hi there, I am doing great thanks. Where are you from?",
+                "speaker": "user"
+              },
+              {
+                "text": "Of course I would win.",
+                "speaker": "assistant"
+              },
+              {
+                "text": "I am from Socal, yourself?",
+                "speaker": "user"
+              },
+              {
+                "text": "Cool! What did you do before you retired?",
+                "speaker": "assistant"
+              }
+            ]
+          },
+          "source": "train",
+          "categories": [
+            "coursework"
+          ]
+        }
+      ],
+      "total_count": 103,
+      "keywords": [
+        "lesson",
+        "seminar",
+        "course",
+        "class",
+        "lecture",
+        "curriculum"
+      ]
+    }
+  },
+  "metadata": {
+    "total_examples": 506,
+    "source_file": "academic_persona_chat.json"
+  }
+}
