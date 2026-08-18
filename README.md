@@ -1,6 +1,8 @@
-# 🎓 Academic Assistant Chatbot
+# 🎓 Academic Assistant Chatbot  学术助手聊天机器人
 
 TP2633 Course Project — A hybrid rule-based + generative model chatbot for students, researchers, and self-learners.
+
+TP2633 课程项目 —— 一个面向学生、研究者与自学者的学术问答聊天机器人，采用「规则匹配 + 生成式模型」混合架构。
 
 ---
 
@@ -112,21 +114,10 @@ After startup, visit the local server address to chat with the bot via the web i
 - [huggingface/transformers](https://github.com/huggingface/transformers) — Model loading & usage
 
 ---
-*This README is based on the TP2633 course project report.*
-
----
 
 ---
 
 ## 🇨🇳 中文版本
-
----
-
-# 🎓 学术助手聊天机器人
-
-TP2633 课程项目 —— 一个面向学生、研究者与自学者的学术问答聊天机器人，采用「规则匹配 + 生成式模型」混合架构。
-
----
 
 ## 📖 项目简介
 
@@ -236,4 +227,5 @@ python run.py
 - [huggingface/transformers](https://github.com/huggingface/transformers) — 模型加载与使用
 
 ---
+*This README is based on the TP2633 course project report.*
 *本 README 基于 TP2633 课程项目报告整理而成。*
