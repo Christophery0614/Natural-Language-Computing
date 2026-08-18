@@ -1,6 +1,6 @@
 # 🎓 Academic Assistant Chatbot  学术助手聊天机器人
 
-TP2633 Finla Project — Natural Language Computing
+TP2633 Final Project — Natural Language Computing
 
 A hybrid rule-based + generative model chatbot for students, researchers, and self-learners.
 
