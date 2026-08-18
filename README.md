@@ -2,7 +2,7 @@
 
 TP2633 Course Project — A hybrid rule-based + generative model chatbot for students, researchers, and self-learners.
 
-TP2633 课程项目 —— 一个面向学生、研究者与自学者的学术问答聊天机器人，采用「规则匹配 + 生成式模型」混合架构。
+TP2633 课程项目 —— 一个面向学生、研究者与自学者的学术问答聊天机器人，采用「规则匹配+生成式模型」混合架构
 
 ---
 
