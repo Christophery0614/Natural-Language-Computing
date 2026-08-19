@@ -98,16 +98,6 @@ ChatBot_Flask/
 
 ---
 
-## 关键组件
-
-- **前端**：单页HTML界面（`index.html`）
-- **后端**：Flask Web框架（`routes.py`）
-- **模型**：微调后的DialoGPT模型（`final_model/`）
-- **数据管道**：下载与预处理脚本（`download_data.py`）
-- **配置**：意图与规则定义（`intents.yaml`）
-
----
-
 ## ✨ Key Features
 
 - Hybrid response strategy — rule matching first (`get_intent` / `get_reply`), DialoGPT fallback
@@ -200,6 +190,16 @@ After startup, visit the local server address to chat with the bot via the web i
 | 机器学习模型 | DialoGPT (`microsoft/DialoGPT-small`)，通过 Transformers `AutoModelForCausalLM` / `AutoTokenizer` |
 | 数据处理 | Hugging Face `datasets` 库 |
 | 意图配置 | `intents.yaml` |
+
+---
+
+## 关键组件
+
+- **前端**：单页HTML界面（`index.html`）
+- **后端**：Flask Web框架（`routes.py`）
+- **模型**：微调后的DialoGPT模型（`final_model/`）
+- **数据管道**：下载与预处理脚本（`download_data.py`）
+- **配置**：意图与规则定义（`intents.yaml`）
 
 ---
 
