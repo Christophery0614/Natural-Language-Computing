@@ -1,4 +1,4 @@
-# 🎓 Academic Assistant Chatbot  学术助手聊天机器人
+# ACADEMIC ASSISTANT CHATBOT  学术助手聊天机器人
 
 TP2633 Final Project — Natural Language Computing
 
