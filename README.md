@@ -117,8 +117,6 @@ After startup, visit the local server address to chat with the bot via the web i
 
 ---
 
----
-
 ## 🇨🇳 中文版本
 
 ## 📖 项目简介
