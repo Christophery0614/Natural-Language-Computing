@@ -45,19 +45,66 @@ A hybrid architecture combining rule-based systems with machine learning models.
 
 ---
 
-## 📁 Directory Structure
+## 📁 Directory Structure / 目录结构
 
 ```
-.
-├── index.html                    # Frontend UI
-├── routes.py                     # Flask routes
-├── download_data.py              # Data download & filtering
-├── model.py                      # DialoGPT loading & inference
-├── train.py                      # Training script
-├── run.py                        # App entry point
-├── intents.yaml                  # Preset intents & rules
-└── academic_persona_chat.json    # Preprocessed dataset
+ChatBot_Flask/
+│
+├── app/                          # Main application package / 主应用包
+│   ├── __pycache__/              # Python cache files / Python 缓存文件
+│   ├── routes.cpython-312.pyc    # Compiled routes module / 编译后的路由模块
+│   ├── templates/                # HTML templates / HTML 模板
+│   │   └── index.html            # Frontend UI / 前端界面
+│   ├── routes.py                 # Flask route definitions / Flask 路由定义
+│   ├── config/                   # Configuration files / 配置文件
+│   │   └── intents.yaml          # Preset intents & rules / 预设意图与规则
+│   ├── data/                     # Data directory / 数据目录
+│   │   ├── __pycache__/          # Python cache files / Python 缓存文件
+│   │   ├── academic_examples.json         # Academic example data / 学术示例数据
+│   │   ├── academic_persona_chat.json     # Preprocessed dataset / 预处理后的数据集
+│   │   └── download_data.py               # Data download & filtering script / 数据下载与过滤脚本
+│   └── model/                    # Model directory / 模型目录
+│       └── final_model/          # Trained model files / 训练完成的模型文件
+│           ├── config.json                # Model configuration / 模型配置
+│           ├── generation_config.json     # Generation parameters / 生成参数配置
+│           └── merges.txt                # BPE merges file / BPE合并文件
+│
+├── README.md                     # Project documentation / 项目说明文档
+└── academic_persona_chat.json    # Preprocessed dataset (root level) / 预处理数据集（根目录）
 ```
+
+---
+
+## File Descriptions / 文件说明
+
+| File / 文件 | Description / 说明 |
+|-------------|-------------------|
+| `app/templates/index.html` | Frontend user interface for the chatbot / 聊天机器人前端用户界面 |
+| `app/routes.py` | Flask route handlers and API endpoints / Flask路由处理器与API端点 |
+| `app/data/download_data.py` | Script for downloading and filtering training data / 下载并过滤训练数据的脚本 |
+| `app/model/final_model/` | Directory containing the trained DialoGPT model / 包含已训练DialoGPT模型的目录 |
+| `app/config/intents.yaml` | YAML file defining preset intents and conversation rules / 定义预设意图和对话规则的YAML文件 |
+| `academic_persona_chat.json` | Preprocessed academic chatbot conversation dataset / 预处理后的学术聊天机器人对话数据集 |
+
+---
+
+## Key Components / 关键组件
+
+- **Frontend**: Single-page HTML interface (`index.html`)
+- **Backend**: Flask web framework (`routes.py`)
+- **Model**: Fine-tuned DialoGPT model (`final_model/`)
+- **Data Pipeline**: Download and preprocessing scripts (`download_data.py`)
+- **Configuration**: Intent and rule definitions (`intents.yaml`)
+
+---
+
+## 关键组件
+
+- **前端**：单页HTML界面（`index.html`）
+- **后端**：Flask Web框架（`routes.py`）
+- **模型**：微调后的DialoGPT模型（`final_model/`）
+- **数据管道**：下载与预处理脚本（`download_data.py`）
+- **配置**：意图与规则定义（`intents.yaml`）
 
 ---
 
@@ -153,22 +200,6 @@ After startup, visit the local server address to chat with the bot via the web i
 | 机器学习模型 | DialoGPT (`microsoft/DialoGPT-small`)，通过 Transformers `AutoModelForCausalLM` / `AutoTokenizer` |
 | 数据处理 | Hugging Face `datasets` 库 |
 | 意图配置 | `intents.yaml` |
-
----
-
-## 📁 目录结构
-
-```
-.
-├── index.html                    # 前端页面（用户输入与展示回复界面）
-├── routes.py                     # Flask 路由，处理用户请求与响应
-├── download_data.py              # 从 Hugging Face 下载并筛选学术对话数据
-├── model.py                      # 模型加载与推理逻辑
-├── train.py                      # 模型训练脚本
-├── run.py                        # 应用启动入口
-├── intents.yaml                  # 预设意图与规则配置
-└── academic_persona_chat.json    # 预处理后的学术对话数据集
-```
 
 ---
 
